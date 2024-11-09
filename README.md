@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/azwinaswin8" target="blank"><img src="https://img.shields.io/twitter/follow/azwinaswin8?logo=twitter&style=for-the-badge" alt="azwinaswin8" /></a> </p>
 
-- 🔭 I’m currently working on [trueBiller](https://github.com/AswinAzikar/truebiller)
+- 🔭 I’m currently working on [prime_stream](https://github.com/AswinAzikar/prime_stream)
 
 - 🌱 I’m currently learning **Machine learning.**
 
