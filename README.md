@@ -5,22 +5,6 @@
   <img id="profile-counter" src="https://komarev.com/ghpvc/?username=aswinazikar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views: 0" />
 </p>
 
-<script>
-  // Adjust the displayed profile view count by multiplying by 5
-  const img = document.getElementById("profile-counter");
-
-  window.onload = () => {
-    const altText = img.alt;
-    const match = altText.match(/(\d+)/); // Extract number from the alt text
-
-    if (match) {
-      const originalCount = parseInt(match[0], 10); // Original count
-      const multipliedCount = originalCount * 5; // Multiply by 5
-      img.alt = `Profile views: ${multipliedCount}`; // Update alt text
-    }
-  };
-</script>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswinazikar" alt="aswinazikar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/azwinaswin8" target="blank"><img src="https://img.shields.io/twitter/follow/azwinaswin8?logo=twitter&style=for-the-badge" alt="azwinaswin8" /></a> </p>
