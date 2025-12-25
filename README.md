@@ -16,7 +16,9 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=AswinAzikar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AswinAzikar&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinAzikar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinAzikar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AswinAzikar&theme=tokyonight)
+
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=AswinAzikar&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
