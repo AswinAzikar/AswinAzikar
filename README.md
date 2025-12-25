@@ -19,6 +19,8 @@
 
 - 📫 You can reach me at **azwinaswin8@gmail.com**
 
+- 🎒 Doing Msc Computing - AI with NLP in Dublin City University, Ireland
+
 - 📄 Know about my experiences [https://github.com/AswinAzikar/AswinResume/blob/main/AswinManamthanLatest.pdf](https://github.com/AswinAzikar/AswinResume/blob/main/AswinManamthanLatest.pdf)
 
 - ⚡ Fun fact **Warning: This repository may cause spontaneous code refactoring and an uncontrollable urge to fix bugs at 2 AM. Proceed with caffeine!**
