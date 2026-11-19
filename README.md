@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/code-arcade.png">
-  <img src="./assets/code-arcade.gif" alt="Code Arcade. A pixel spaceship flies past a synthwave sunset." width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/cabinet.png">
+  <img src="./assets/cabinet.gif" alt="Code Arcade cabinet. A pixel spaceship flies past a synthwave sunset." width="100%">
 </picture>
 
 # Aswin’s Code Arcade
@@ -9,7 +9,7 @@ I’m Aswin Manmathan S. I build Flutter apps, experiment with AI and NLP, and t
 
 [Explore my repos](https://github.com/AswinAzikar?tab=repositories) · [Find me on LinkedIn](https://www.linkedin.com/in/aswin-manmathan-s/)
 
-## Pick a game
+## 🕹️ Game select
 
 | Repository | What’s inside |
 | --- | --- |
@@ -19,45 +19,54 @@ I’m Aswin Manmathan S. I build Flutter apps, experiment with AI and NLP, and t
 | [FeatureRichArchFlutter](https://github.com/AswinAzikar/FeatureRichArchFlutter) · [sider](https://github.com/AswinAzikar/sider) | A feature-driven Flutter starter and a reusable side navigation package. |
 | [Ireland GTFS Transport Analytics](https://github.com/AswinAzikar/gtfs-transport-analytics-ireland) · [Retail Sales Analytics](https://github.com/AswinAzikar/retail-sales-analytics-sql-powerbi) | Public transport schedules in one project, SQL and Power BI retail analysis in the other. |
 
-## Tech stack & skills
+## 🎒 Tech stack & skills
 
-**AI & data**  
-![Python](https://img.shields.io/badge/Python-29345D?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-29345D?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-29345D?style=flat-square&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-29345D?style=flat-square&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-29345D?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-29345D?style=flat-square)
+### AI & data
 
-**App development**  
-![Flutter](https://img.shields.io/badge/Flutter-124656?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-124656?style=flat-square&logo=dart&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-124656?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-124656?style=flat-square&logo=firebase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-124656?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-124656?style=flat-square&logo=git&logoColor=white)
+<p>
+  <img src="./assets/gear/python.svg" alt="Python" width="109" height="46">
+  <img src="./assets/gear/pytorch.svg" alt="PyTorch" width="120" height="46">
+  <img src="./assets/gear/sklearn.svg" alt="scikit-learn" width="171" height="46">
+  <img src="./assets/gear/pandas.svg" alt="pandas" width="109" height="46">
+  <img src="./assets/gear/sql.svg" alt="SQL" width="79" height="46">
+  <img src="./assets/gear/power-bi.svg" alt="Power BI" width="130" height="46">
+</p>
 
-**Skills**  
-![NLP](https://img.shields.io/badge/NLP-50366B?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-50366B?style=flat-square)
-![Model evaluation](https://img.shields.io/badge/Model%20evaluation-50366B?style=flat-square)
-![Data visualization](https://img.shields.io/badge/Data%20visualization-50366B?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-50366B?style=flat-square)
-![Flutter architecture](https://img.shields.io/badge/Flutter%20architecture-50366B?style=flat-square)
+### App development
 
-## GitHub stats & contribution graph
+<p>
+  <img src="./assets/gear/flutter.svg" alt="Flutter" width="120" height="46">
+  <img src="./assets/gear/dart.svg" alt="Dart" width="89" height="46">
+  <img src="./assets/gear/bloc.svg" alt="BLoC" width="89" height="46">
+  <img src="./assets/gear/firebase.svg" alt="Firebase" width="130" height="46">
+  <img src="./assets/gear/node.svg" alt="Node.js" width="120" height="46">
+  <img src="./assets/gear/git.svg" alt="Git" width="79" height="46">
+</p>
+
+### Skills
+
+<p>
+  <img src="./assets/gear/nlp.svg" alt="NLP" width="79" height="46">
+  <img src="./assets/gear/rag.svg" alt="RAG" width="79" height="46">
+  <img src="./assets/gear/evaluation.svg" alt="Model evaluation" width="212" height="46">
+  <img src="./assets/gear/visualization.svg" alt="Data visualization" width="232" height="46">
+  <img src="./assets/gear/rest.svg" alt="REST APIs" width="140" height="46">
+  <img src="./assets/gear/architecture.svg" alt="Flutter architecture" width="253" height="46">
+</p>
+
+## 📊 High scores & contribution graph
 
 [![GitHub scoreboard. 94 public repos, 38 contributions in the last year, 4 followers and 3 achievements. Includes the contribution heatmap as of 19 November 2026.](./assets/scoreboard.svg)](https://github.com/AswinAzikar#js-contribution-activity)
 
 [See live contribution activity](https://github.com/AswinAzikar#js-contribution-activity)
 
-## Trophy cabinet
+## 🏆 Trophy cabinet
 
 | Quickdraw | Pull Shark ×2 | YOLO |
 | :---: | :---: | :---: |
 | <a href="https://github.com/AswinAzikar?achievement=quickdraw&amp;tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="70" alt="Quickdraw achievement"></a> | <a href="https://github.com/AswinAzikar?achievement=pull-shark&amp;tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="70" alt="Pull Shark achievement, bronze"></a> | <a href="https://github.com/AswinAzikar?achievement=yolo&amp;tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70" alt="YOLO achievement"></a> |
 
-## Dev quotes
+## 💬 Dev quotes
 
 > I said “one small refactor.” Git said “47 files changed.”
 
