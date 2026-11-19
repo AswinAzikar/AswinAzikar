@@ -93,6 +93,12 @@ I’m Aswin Manmathan S. I build Flutter apps, experiment with AI and NLP, and t
 
 ## 🏆 Trophy cabinet
 
+### Profile trophies
+
+![GitHub Profile Trophy cards for AswinAzikar](https://github-trophies.vercel.app/?username=AswinAzikar&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+### GitHub achievements
+
 | Quickdraw | Pull Shark ×2 | YOLO |
 | :---: | :---: | :---: |
 | <a href="https://github.com/AswinAzikar?achievement=quickdraw&amp;tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="70" alt="Quickdraw achievement"></a> | <a href="https://github.com/AswinAzikar?achievement=pull-shark&amp;tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="70" alt="Pull Shark achievement, bronze"></a> | <a href="https://github.com/AswinAzikar?achievement=yolo&amp;tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70" alt="YOLO achievement"></a> |
