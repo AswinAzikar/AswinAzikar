@@ -47,9 +47,9 @@ I’m Aswin Manmathan S. I build Flutter apps, experiment with AI and NLP, and t
 
 ## GitHub stats & contribution graph
 
-[![GitHub scoreboard. 94 public repos, 38 contributions in the last year, 4 followers and 3 achievements. Includes the contribution heatmap as of 19 November 2026.](./assets/scoreboard.svg)](https://github.com/AswinAzikar#contribution-activity)
+[![GitHub scoreboard. 94 public repos, 38 contributions in the last year, 4 followers and 3 achievements. Includes the contribution heatmap as of 19 November 2026.](./assets/scoreboard.svg)](https://github.com/AswinAzikar#js-yearly-contributions)
 
-[See live contribution activity](https://github.com/AswinAzikar#contribution-activity)
+[See live contribution activity](https://github.com/AswinAzikar#js-yearly-contributions)
 
 ## Trophy cabinet
 
